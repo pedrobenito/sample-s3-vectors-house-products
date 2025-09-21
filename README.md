@@ -73,6 +73,8 @@ The application uses a house rooms dataset with:
    streamlit run streamlit_house_app.py
    ```
 
+![Streamlit UI](streamlit-ui.png)
+
 ## Usage
 
 ### Text Search
